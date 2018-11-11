@@ -1,3 +1,22 @@
-var limon = 23;
-var hola= 22;
-var casa=256;
+//1
+
+var contador = 0;
+
+while(contador<=5) {
+
+    console.log(contador);
+    contador++;
+}
+
+//2 
+var contador = 5;
+while (contador<=15) {
+    if (contador>=5 && contador<=15) {
+        console.log(contador);
+    }
+    contador++;
+}
+
+//3
+
+
